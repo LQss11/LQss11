@@ -19,10 +19,11 @@
 <!---------------Info Section----------------->
 
 ### I'm a software engineering student and DevOps & Coud computing Enthusiast
-
-* 🧐   Interested in ♾️DevOps♾️. Recent focus on ☁️ Cloud computing ☁️.
-* 💻  3 years' computer science, and 3 years' of software engineering education .
-* 🌱   Currently learning Kubernetes, Terraform, Ansible & Cloud Computing.
+* 🔭 I’m currently trying to be more consistant on both Github and Stackoverflow.
+* 🧐 Interested in ♾️DevOps♾️. Recent focus on ☁️ Cloud computing ☁️.
+* 💻 3 years' computer science, and 3 years' of software engineering education.
+* 👯 I’m looking to collaborate on community projects.
+* 🌱 Currently learning Kubernetes, Terraform, Ansible & Cloud Computing.
 * 🥅 2022 Goals: Become a 🎓Graduate Engineer🎓and Contribute to Open Source projects.
 * ⚡ Fun fact: I love 🎮Gaming🎮 and I play 🎸Guitar🎸
 
