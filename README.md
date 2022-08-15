@@ -24,7 +24,7 @@
 * 💻 3 years' computer science, and 3 years' of software engineering education.
 * 👯 I’m looking to collaborate on community projects.
 * 🌱 Currently learning Kubernetes, Terraform, Ansible & Cloud Computing.
-* 🥅 2022 Goals: Become a 🎓Graduate Engineer🎓and Contribute to Open Source projects.
+* 🥅 2022 Goals: Become a 🎓Certified in cloud, K8s and Terraform🎓and Contribute to Open Source projects.
 * ⚡ Fun fact: I love 🎮Gaming🎮 and I play 🎸Guitar🎸
 
 
