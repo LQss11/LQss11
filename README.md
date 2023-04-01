@@ -18,7 +18,7 @@
 <br>
 <!---------------Info Section----------------->
 
-### I'm a software engineering student and DevOps & Cloud computing Enthusiast
+### I'm a Software engineer and DevOps & Cloud Enthusiast
 * 🔭 I’m currently trying to be more consistent on GitHub and Stackoverflow.
 * 🧐 Interested in ♾️DevOps♾️. Recent focus on ☁️ Cloud computing ☁️.
 * 💻 3 years of computer science, and 3 years of software engineering education.
