@@ -18,34 +18,72 @@
 <br>
 <!---------------Info Section----------------->
 
-### I'm a Software engineer and DevOps & Cloud Enthusiast
-* 🔭 I’m currently trying to be more consistent on GitHub and Stackoverflow.
+### I'm a DevOps & Cloud Engineer
+* 🔭 I’m currently trying to be more consistent on GitHub and StackOverflow.
 * 🧐 Interested in ♾️DevOps♾️. Recent focus on ☁️ Cloud computing ☁️.
-* 💻 3 years of computer science, and 3 years of software engineering education.
-* 👯 I’m looking to collaborate on community projects.
-* 🌱 Currently learning Go, Terraform, Ansible & Redis, and Vault.
-* 🥅 2023 Goals: 🎓Certified in AWS, K8s, and Terraform🎓and Contribute to Open Source projects.
+* 🎓 3 years of computer science, and 3 years of software engineering education.
+* 💻 2 years as a Cloud and DevOps engineer.
+* 👯 I’m looking to collaborate on community projects, and Contribute to Open Source projects.
+* 🌱 Currently learning Go, OpenStack, Openshif, and Linux System Administration.
+* ✔️ 2022 Achievements: Microsoft Certified AZ-204 + AZ-900🎓.
+* ✔️ 2023 Achievements: Microsoft Certified AZ-400🎓.
+* 🥅 2024 Goals: Certified CKA, CKAD, and Terraform.
 * ⚡ Fun fact: I love 🎮Gaming🎮 and I play 🎸Guitar🎸
 
 
 <!---------------TOOLS SECTION----------------->
 
+<h3 align="center">Containerization:</h3>
+<br>
+
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
+</p>
+
+<h3 align="center">IaC & CaC:</h3>
+<br>
+
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
+</p>
+
+
+<h3 align="center">Data:</h3>
+<br>
+
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="DataBricks" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="Kubernetes" width="40" height="40"/>
+
+</p>
+
+
+<h3 align="center">Grafana:</h3>
+<br>
+
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/>
+</p>
+
+
 <h3 align="center">DevOps tools</h3>
 <br>
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg" alt="Azure Functions" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="Kubernetes" width="40" height="40"/>
 </p>
 
 <h3 align="center">Languages and Frameworks</h3>
